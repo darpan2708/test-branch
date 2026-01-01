@@ -216,5 +216,3 @@ $blog_details = get_site();
 </div>
 <?php
 get_footer( 'wp-activate' );
-
-# Changes 2
