@@ -1,0 +1,51 @@
+# WordPress Core
+wp-config.php
+wp-config-sample.php
+xmlrpc.php
+.htaccess
+wp-content/upgrade/
+wp-content/backup-db/
+error_log
+
+# WordPress Content Directory
+wp-content/uploads/
+wp-content/cache/
+wp-content/backup-db/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/object-cache.php
+wp-content/debug.log
+
+
+# Log Files
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.~lock.*
+
+# Miscellaneous
+.env
+*.sql
+*.tar.gz
+*.zip
+*.log
+*.out
+*.seed
+
+
