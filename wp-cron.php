@@ -203,3 +203,5 @@ if ( _get_cron_lock() === $doing_wp_cron ) {
 }
 
 die();
+
+# Test branch 2
